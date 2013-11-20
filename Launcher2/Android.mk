@@ -16,7 +16,8 @@
 # 3   
 # 2
 # 4
-# 5
+# 75
+#66
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
