@@ -20,7 +20,7 @@
 # 6
 LOCAL_PATH := $(call my-dir)
 #7
-
+#8
 include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
