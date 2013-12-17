@@ -16,10 +16,9 @@
 # 3   
 # 2
 # 4
-# 75
-#66
-
-OCAL_PATH := $(call my-dir)
+# 5
+# 6
+LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
